@@ -1,0 +1,6 @@
+{
+  "name": "Sum-Up: Number Merge Puzzle",
+  "description": "A high-stakes math elimination game. Match numbers to hit the target sum before the grid overflows. Features Classic and Time modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
